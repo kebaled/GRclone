@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Grone</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="app_title">Gnome Robots Clone</string>
+    <string name="app_wellcome">"Benvenuti su\nGrone \n(Gnome Robot Clone)"</string>
+    <string name="app_credits">"CREDITS"</string>
+    <string name="app_game">"GIOCA"</string>
+    <string name="numCell">"10"</string>
+
+</resources>
